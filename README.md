@@ -1,6 +1,6 @@
 # 🛡️ Log Analyzer — AI SOC Log Analyzer
 
-🌐 **Live Demo:** https://log-analyzer.onrender.com
+🌐 Live Demo:https://log-analyzer-jsxc.onrender.com
 
 An AI-powered security log analyzer built for SOC operations. Paste system logs and get instant threat detection, alert generation and AI-driven recommendations.
 
